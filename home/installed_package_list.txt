@@ -1,0 +1,708 @@
+ii 7zip-23.01_1                                                File archiver with a high compression ratio
+ii AppStream-0.16.2_1                                          Tools and libraries to work with AppStream metadata
+ii CoinMP-1.8.4_1                                              Library that supports most of Coin CLP, CBC and CGL
+ii ImageMagick-7.1.1.18_1                                      Create, edit, compose, or convert bitmap images
+ii LuaJIT-2.1.0beta3_2                                         Just-In-Time Compiler for Lua
+ii SDL2-2.28.3_1                                               Simple DirectMedia Layer (version 2)
+ii Thunar-4.18.7_1                                             Thunar File Manager
+ii abseil-cpp-20230802.1_1                                     Abseil common libraries
+ii acl-2.3.1_1                                                 Access Control List filesystem support
+ii acpid-2.0.34_2                                              ACPI Daemon (acpid) With Netlink Support
+ii acpilight-1.2_2                                             Backward-compatibile xbacklight replacement
+ii adwaita-icon-theme-44.0_1                                   Theme consisting of a set of icons for GTK+
+ii alsa-lib-1.2.10_2                                           Advanced Linux Sound Architecture (ALSA) library
+ii alsa-utils-1.2.10_1                                         Advanced Linux Sound Architecture (ALSA) utilities
+ii amdvlk-2023.Q2.3_1                                          AMD Open Source Driver For Vulkan
+ii amiri-font-1.000_1                                          Classical Arabic typeface in Naskh style
+ii android-tools-34.0.4_1                                      Android platform tools (adb and fastboot)
+ii asciiquarium-1.1_3                                          Enjoy the mysteries of the sea from the safety of your own terminal
+ii at-spi2-atk-2.48.0_1                                        Assistive Technology Service Provider Interface - ATK bridge
+ii at-spi2-core-2.48.0_1                                       Assistive Technology Service Provider Interface
+ii atk-2.48.0_1                                                Set of interfaces for accessibility
+ii attr-2.5.1_1                                                Extended attribute support library for ACL support
+ii avahi-glib-libs-0.8_7                                       Avahi glib shared libraries
+ii avahi-libs-0.8_2                                            Avahi shared libraries
+ii base-files-0.143_3                                          Void Linux base system files
+ii base-system-0.114_1                                         Void Linux base system meta package
+ii bash-5.2.015_1                                              GNU Bourne Again Shell
+ii bc-1.07.1_5                                                 Arbitrary precision numeric processing language
+ii betterlockscreen-4.0.4_1                                    Sweet looking lockscreen for linux system
+ii binutils-2.39_2                                             GNU binary utilities
+ii binutils-doc-2.39_2                                         GNU binary utilities - info files
+ii brotli-1.1.0_1                                              Generic-purpose lossless compression algorithm
+ii bspwm-0.9.10_2                                              Tiling window manager based on binary space partitioning
+ii btrfs-progs-6.5.1_1                                         Btrfs filesystem utilities
+ii bubblewrap-0.8.0_1                                          Unprivileged sandboxing tool
+ii busybox-static-1.34.1_4                                     Swiss Army Knife of Embedded Linux (statically linked)
+ii bzip2-1.0.8_2                                               Freely available, patent free, high-quality data compressor
+ii c-ares-1.19.1_1                                             Library for asynchronous DNS requests
+ii ca-certificates-20230311+3.92_1                             Common CA certificates for SSL/TLS from Mozilla
+ii cairo-1.16.0_2                                              Vector graphics library with cross-device output support
+ii capstone-5.0.1_2                                            Lightweight multi-platform, multi-architecture disassembly framework
+ii celt-0.11.3_3                                               An audio codec for use in low-delay speech and audio communication
+ii chromaprint-1.5.1_1                                         Library that extracts fingerprints from any audio source
+ii clucene-2.3.3.4_10                                          Text search engine written in C++
+ii coreutils-9.3_1                                             GNU core utilities
+ii cpio-2.14_1                                                 GNU copy-in/out (cpio) with remote magnetic tape (rmt) support
+ii culmus-0.133_2                                              Collection of Type1 and TrueType free Hebrew fonts
+ii curl-8.4.0_1                                                Client that groks URLs
+ii dash-0.5.12_1                                               POSIX-compliant Unix shell, much smaller than GNU bash
+ii dbus-1.14.10_1                                              Message bus system
+ii dbus-glib-0.112_1                                           GLib bindings for D-Bus
+ii dbus-libs-1.14.10_1                                         Message bus system - shared libraries
+ii dbus-x11-1.14.10_1                                          Message bus system - X11 support
+ii dconf-0.40.0_1                                              Low-level configuration system
+ii dejavu-fonts-ttf-2.37_2                                     DejaVu family of TrueType fonts
+ii desktop-file-utils-0.26_1                                   Utilities to manage desktop entries
+ii device-mapper-2.02.188_1                                    Device Mapper userspace library and tools
+ii dhcpcd-10.0.2_1                                             RFC2131 compliant DHCP client
+ii diffutils-3.10_1                                            GNU diff utilities
+ii dmenu-5.2_1                                                 Generic menu for X
+ii dnssec-anchors-20230213_1                                   DNSSEC trust anchors for the root zone
+ii dosfstools-4.2_1                                            DOS filesystem tools
+ii double-conversion-3.3.0_1                                   Efficient binary-decimal and decimal-binary routines for IEEE doubles
+ii dracut-059_4                                                Low-level tool for generating an initramfs/initrd image
+ii duktape-2.7.0_1                                             Embeddable JavaScript engine
+ii dunst-1.9.2_1                                               Lightweight and customizable notification daemon
+ii e2fsprogs-1.47.0_1                                          Ext2/3/4 Filesystem Utilities
+ii e2fsprogs-libs-1.47.0_1                                     Ext2/3/4 Filesystem Utilities - shared libraries
+ii edb-debugger-1.4.0_2                                        Cross platform x86/x86-64 debugger
+ii editline-1.17.1_2                                           Minimal readline() replacement
+ii efibootmgr-18_1                                             Tool to modify UEFI Firmware Boot Manager Variables
+ii elogind-246.10_3                                            Standalone logind fork
+ii enchant2-2.6.1_1                                            Generic spell checking library
+ii ethtool-6.3_1                                               Utility for controlling network drivers and hardware
+ii eudev-3.2.12_1                                              Fork of systemd-udev (enhanced userland device daemon)
+ii eudev-libudev-3.2.12_1                                      Fork of systemd-udev (enhanced userland device daemon) - runtime library
+ii evince-44.3_1                                               GNOME Document viewer for multiple document formats
+ii exfatprogs-1.2.0_1                                          Tools to create, check and label exFAT filesystems
+ii exo-4.18.0_1                                                Extension library for the Xfce desktop environment
+ii expat-2.5.0_1                                               XML parser library written in C
+ii f2fs-tools-1.16.0_1                                         Tools for the Linux Flash-Friendly File System (F2FS)
+ii faac-1.30_1                                                 AAC audio encoder library
+ii fdk-aac-2.0.2_2                                             Fraunhofer FDK AAC codec library
+ii feh-3.10_1                                                  Fast and light imlib2-based image viewer
+ii ffmpeg-4.4.4_3                                              Decoding, encoding and streaming software
+ii ffplay-4.4.4_3                                              Simple video player using FFmpeg and SDL2
+ii file-5.45_1                                                 File type identification utility
+ii findutils-4.9.0_1                                           GNU Find Utilities
+ii firefox-118.0.2_1                                           Mozilla Firefox web browser
+ii flatpak-1.15.4_2                                            Application sandboxing and distribution framework
+ii flite-2.2_1                                                 Lightweight speech synthesis engine
+ii font-adobe-source-code-pro-2.038R~ro+1.058R~it+1.018R~VAR_1 Monospaced font family for user interface and coding environments
+ii font-adobe-source-sans-pro-v2-2.045_1                       Real SourceSansPro fonts
+ii font-adobe-source-serif-pro-3.001R_1                        Adobe's sans serif font family
+ii font-alef-1.001_1                                           Alef fonts for Latin and Hebrew scripts
+ii font-alias-1.0.5_1                                          Standard aliases for X11 PCF fonts
+ii font-crosextra-caladea-ttf-20130214_1                       Serif font metric-compatible with the Cambria font
+ii font-crosextra-carlito-ttf-20220224_1                       Sans-serif font metric-compatible with Calibri font
+ii font-emoji-one-color-1.4_1                                  Emoji One color font
+ii font-kacst-2.01+mry_1                                       KACST free TrueType Arabic fonts
+ii font-liberation-narrow-ttf-1.07.6_1                         Fonts with same metrics as Times, Arial and Courier
+ii font-libertine-graphite-ttf-20120116_1                      Linux Libertine family of fonts - G version
+ii font-material-design-icons-ttf-4.0.0_2                      Material Design icons by Google
+ii font-reem-kufi-ttf-1.7_1                                    Modern Kufic typefaces for Arabic
+ii font-sil-gentium-basic-1.102_1                              Smart Unicode font families based on Gentium
+ii font-sil-scheherazade-2.100_2                               Font designed in a similar style to traditional Naskh typefaces
+ii font-util-1.4.1_1                                           Tools for truncating and subseting of ISO10646-1 BDF fonts
+ii fontconfig-2.14.2_1                                         Library for configuring and customizing font access
+ii fontforge-20230101_3                                        Create and modify PostScript, TrueType and SVG fonts
+ii freetype-2.13.1_1                                           Font rendering engine and library API
+ii fribidi-1.0.13_1                                            Free Implementation of the Unicode Bidirectional Algorithm
+ii fuse-2.9.9_1                                                Filesystem in Userspace
+ii fuse3-3.16.1_1                                              Filesystem in Userspace 3.x
+ii gawk-5.1.1_1                                                GNU awk utility
+ii gc-8.2.4_1                                                  Garbage collector for C and C++
+ii gcc-12.2.0_3                                                GNU Compiler Collection
+ii gcr-3.41.1_1                                                GNOME crypto package
+ii gd-2.3.3_2                                                  Graphics library for the dynamic creation of images
+ii gdbm-1.23_1                                                 GNU database routines
+ii gdk-pixbuf-2.42.10_2                                        Image loading library for The GTK+ toolkit (v2)
+ii giflib-5.2.1_1                                              Library to handle, display and manipulate GIF images
+ii gir-freedesktop-1.76.1_3                                    Introspection data for some FreeDesktop components
+ii girara-0.4.0_1                                              Library implementing a user interface that focuses on minimalism
+ii git-2.42.0_2                                                Git Tree History Storage Tool
+ii glib-2.78.0_3                                               GNU library of C routines
+ii glib-networking-2.76.0_1                                    Network-related giomodules for glib
+ii glibc-2.36_2                                                GNU C library
+ii glibc-devel-2.36_2                                          GNU C library - development files
+ii glibc-locales-2.36_2                                        GNU C library - locale data files
+ii glslang-11.11.0_1                                           Khronos reference front-end for GLSL, ESSL, and sample SPIR-V generator
+ii gmp-6.3.0_1                                                 Library for arbitrary precision arithmetic
+ii gnome-desktop-44.0_1                                        GNOME desktop management utilities
+ii gnupg-2.4.3_2                                               GNU Privacy Guard (2.x)
+ii gnutls-3.8.1_1                                              GNU Transport Layer Security library
+ii gpgmepp-1.21.0_1                                            GnuPG Made Easy - C++ library
+ii graphene-1.10.8_1                                           Thin layer of types for graphic libraries
+ii graphite-1.3.14_1                                           Reimplementation of the SIL Graphite text processing engine
+ii graphviz-libs-8.1.0_1                                       Graph Visualization Software - runtime libraries
+ii grep-3.11_1                                                 GNU grep utility
+ii grub-2.06_3                                                 GRand Unified Bootloader 2
+ii grub-x86_64-efi-2.06_3                                      GRand Unified Bootloader 2 - x86_64 EFI support
+ii gsettings-desktop-schemas-44.0_1                            Collection of GSettings schemas
+ii gsfonts-20200910_1                                          URW+ base35 fonts
+ii gspell-1.12.2_1                                             Flexible API to add spell checking to a GTK+ application
+ii gst-plugins-bad1-1.22.5_1                                   GStreamer plugins from the bad set (v1.x)
+ii gst-plugins-base1-1.22.5_1                                  GStreamer Base Plug-ins (v1.x)
+ii gstreamer1-1.22.5_1                                         Core GStreamer libraries and elements (1.x)
+ii gtk+-2.24.33_2                                              GTK+ toolkit (v2)
+ii gtk+3-3.24.38_1                                             GTK+ toolkit (v3)
+ii gtk-update-icon-cache-2.24.33_2                             GTK+ toolkit (v2) - The GTK+ update icon cache tool
+ii gtk4-4.12.3_1                                               GIMP ToolKit (v4)
+ii gumbo-parser-0.10.1_3                                       HTML5 parsing library in pure C99
+ii gvfs-1.50.6_1                                               Userspace virtual filesystem
+ii gvfs-mtp-1.50.6_1                                           Userspace virtual filesystem - MTP backend
+ii gzip-1.13_1                                                 GNU compression utility (replacement for compress)
+ii hdparm-9.65_1                                               Utility to access IDE device parameters
+ii hicolor-icon-theme-0.17_3                                   Standard icon theme called hicolor
+ii htop-3.2.2_1                                                Interactive process viewer
+ii hwids-0.374_1                                               Hardware Identification Databases
+ii hyphen-2.8.8_3                                              ALTLinux hyphenation library
+ii i3lock-color-2.13.c.4_1                                     Screenlocker forked from i3lock with more features
+ii iana-etc-20230629_1                                         Unix /etc/services and /etc/protocols files
+ii icu-libs-73.2_2                                             Robust and fully-featured Unicode libraries - shared libs
+ii imath-3.1.9_3                                               C++/Python library for 2D/3D vector/matrix/math operations
+ii imlib2-1.12.1_1                                             Image manipulation library
+ii inih-57_1                                                   Simple ini file parser library
+ii iproute2-6.5.0_1                                            IP Routing Utilities
+ii iptables-1.8.9_1                                            Linux IPv[46] packet filtering ruleset
+ii iputils-20221126_1                                          Useful utilities for Linux networking (including ping)
+ii ipw2100-firmware-1.3_6                                      Firmware for the Intel PRO/Wireless 2100 wifi cards
+ii ipw2200-firmware-3.1_6                                      Firmware for the Intel PRO/Wireless 2200BG wifi cards
+ii iso-codes-4.15.0_1                                          List of country, language and currency names
+ii iw-5.19_1                                                   Utility for nl80211 based CLI configuration of wireless devices
+ii jansson-2.14_1                                              Library for encoding, decoding and manipulating JSON data
+ii jbigkit-libs-2.2_2                                          Data compression library/utilities for bi-level high-resolution images - shared libraries
+ii json-c-0.17_1                                               JSON implementation in C
+ii json-glib-1.6.6_2                                           JSON parser for GLib-based libraries and applications
+ii kbd-2.6.3_1                                                 Linux keyboard utilities
+ii kernel-libc-headers-5.10.4_1                                Linux API headers for userland development
+ii kmod-31_1                                                   Linux kernel module handling
+ii kpartx-0.9.6_1                                              Create device maps from partition tables
+ii lame-3.100_2                                                Fast, high quality MP3 encoder
+ii lcms2-2.15_1                                                Small-footprint color management engine, version 2
+ii leafpad-0.8.19_1                                            GTK+ Simple text editor
+ii less-643_1                                                  Pager program similar to more(1)
+ii libICE-1.1.1_1                                              Inter Client Exchange (ICE) library for X
+ii libSM-1.2.4_1                                               X Session Management Library
+ii libX11-1.8.7_1                                              Base X libraries from Xorg
+ii libXScrnSaver-1.2.4_1                                       X11 Screen Saver Library
+ii libXau-1.0.11_1                                             Authorization Protocol for X
+ii libXcomposite-0.4.6_1                                       X Composite Library
+ii libXcursor-1.2.1_2                                          Client-side cursor loading library for X
+ii libXdamage-1.1.6_1                                          Xdamage extension Library
+ii libXdmcp-1.1.4_1                                            X Display Manager Control Protocol library
+ii libXext-1.3.5_1                                             X Extension library
+ii libXfixes-6.0.1_1                                           Xfixes library and extension of X RandR from modular X.org
+ii libXfont2-2.0.6_1                                           X font 2 Library
+ii libXft-2.3.8_1                                              Library for configuring and customizing font access
+ii libXi-1.8.1_1                                               X Input extension library
+ii libXinerama-1.1.5_1                                         X PanoramiX extension library
+ii libXmu-1.1.4_1                                              X Miscellaneous Utilities library
+ii libXpm-3.5.17_1                                             X PixMap Library from modular Xorg X11
+ii libXpresent-1.0.1_1                                         XPresent extension C library
+ii libXrandr-1.5.3_1                                           X RandR Library from X.org
+ii libXrender-0.9.11_1                                         X Render Library
+ii libXt-1.3.0_1                                               X Toolkit Intrinsics library
+ii libXtst-1.2.4_1                                             X Tst Library
+ii libXv-1.0.12_1                                              Xv Extension library
+ii libXxf86vm-1.1.5_1                                          Library for the XFree86-VidMode X extension
+ii libabw-0.1.3_1                                              Library that parses the file format of AbiWord documents
+ii libaio-0.3.113_1                                            Linux-native asynchronous I/O facility (aio) library
+ii libaom-3.7.0_1                                              AV1 Codec library implementation
+ii libarchive-3.6.2_3                                          Library to read/write several different streaming archive formats
+ii libargon2-20190702_3                                        Password hashing library
+ii libaspell-0.60.8_5                                          Spell checker with good multi-language support - library
+ii libass-0.17.1_1                                             Portable library for SSA/ASS subtitles rendering
+ii libassuan-2.5.6_1                                           IPC library used by some GnuPG related software
+ii libasyncns-0.8_9                                            C library for executing name service queries asynchronously
+ii libatasmart-0.19_5                                          ATA S.M.A.R.T. Reading and Parsing Library
+ii libatomic-12.2.0_3                                          GNU Compiler Collection - Atomics library
+ii libatomic-devel-12.2.0_3                                    GNU Compiler Collection - Atomics library - development files
+ii libavcodec-4.4.4_3                                          FFmpeg codec library
+ii libavdevice-4.4.4_3                                         FFmpeg device handling library
+ii libavfilter-4.4.4_3                                         FFmpeg audio/video filter library
+ii libavformat-4.4.4_3                                         FFmpeg file format library
+ii libavresample-4.4.4_3                                       FFmpeg audio resampling library
+ii libavutil-4.4.4_3                                           FFmpeg utility library
+ii libblkid-2.38.1_4                                           Library to handle device identification
+ii libblockdev-3.0.3_2                                         Library for manipulating block devices
+ii libbluray-1.3.4_1                                           Library to access Blu-Ray disks for video playback
+ii libboost_atomic-1.83.0_3                                    Free peer-reviewed portable C++ source libraries - libboost_atomic
+ii libboost_chrono-1.83.0_3                                    Free peer-reviewed portable C++ source libraries - libboost_chrono
+ii libboost_context-1.83.0_3                                   Free peer-reviewed portable C++ source libraries - libboost_context
+ii libboost_date_time-1.83.0_3                                 Free peer-reviewed portable C++ source libraries - libboost_date_time
+ii libboost_filesystem-1.83.0_3                                Free peer-reviewed portable C++ source libraries - libboost_filesystem
+ii libboost_iostreams-1.83.0_3                                 Free peer-reviewed portable C++ source libraries - libboost_iostreams
+ii libboost_locale-1.83.0_3                                    Free peer-reviewed portable C++ source libraries - libboost_locale
+ii libboost_program_options-1.83.0_3                           Free peer-reviewed portable C++ source libraries - libboost_program_options
+ii libboost_system-1.83.0_3                                    Free peer-reviewed portable C++ source libraries - libboost_system
+ii libboost_thread-1.83.0_3                                    Free peer-reviewed portable C++ source libraries - libboost_thread
+ii libbs2b-3.1.0_3                                             Audiofilter for headphones
+ii libbytesize-2.8_3                                           Library for operations with sizes in bytes
+ii libcanberra-0.30_11                                         XDG Sound Theme and Name Specification library implementation
+ii libcap-2.69_2                                               POSIX.1e capabilities suite
+ii libcap-ng-0.8.3_3                                           Alternate POSIX capabilities library
+ii libcap-progs-2.69_2                                         POSIX.1e capabilities suite - utilities
+ii libcddb-1.3.2_9                                             Library to access data on a CDDB server
+ii libcdio-2.1.0_1                                             CD-ROM access library
+ii libcdio-paranoia-10.2+2.0.1_1                               CD paranoia utility/libraries from libcdio
+ii libcdparanoia-10.2_15                                       CDDA reading utility with extra data verification features - runtime library
+ii libcdr-0.1.7_6                                              Corel Draw file format importer library
+ii libcloudproviders-0.3.1_1                                   DBus API for cloud storage sync clients to expose their services
+ii libcolord-1.4.6_2                                           System daemon for managing color devices - runtime library
+ii libcpuid-0.6.2_1                                            Small C library for x86 CPU detection and feature extraction
+ii libcrypto3-3.1.2_1                                          Toolkit for Secure Sockets Layer and Transport Layer Security - crypto library
+ii libcryptsetup-2.6.1_2                                       Setup virtual encryption devices under Linux dm-crypt - runtime libraries
+ii libcups-2.4.7_2                                             Common Unix Printing System - client runtime shared libraries
+ii libcurl-8.4.0_1                                             Multiprotocol file transfer library
+ii libdatrie-0.2.13_1                                          Implementation of double-array structure for representing trie
+ii libdav1d6-1.2.1_1                                           Small and fast AV1 Decoder - runtime library
+ii libdaxctl-70.1_1                                            Utility library for managing libnvdimm - daxctl library
+ii libdb-5.3.28_8                                              Berkeley DB embedded database system - C shared libraries
+ii libde265-1.0.12_1                                           Open h.265 video codec implementation
+ii libdebuginfod-0.189_1                                       Utilities to handle ELF object files - debuginfod library
+ii libdecor-0.1.1_1                                            Client-side decorations library for Wayland client
+ii libdjvulibre-3.5.28_2                                       Utilities for the DjVu image format - runtime libraries
+ii libdrm-2.4.115_1                                            Userspace interface to kernel DRM services
+ii libdvdcss-1.4.3_1                                           Simple library designed for accessing DVDs
+ii libdvdnav-6.1.1_1                                           Library to navigate DVDs
+ii libdvdread-6.1.3_1                                          DVD access library
+ii libe-book-0.1.3_13                                          Import reflowable e-book formats
+ii libedit-20230828.3.1_1                                      Port of the NetBSD Command Line Editor Library
+ii libefivar-38_1                                              Library to manipulate EFI variables
+ii libelf-0.189_1                                              Utilities to handle ELF object files - runtime library
+ii libelogind-246.10_3                                         Standalone logind fork - elogind library
+ii libepoxy-1.5.10_1                                           Library for handling OpenGL function pointer management for you
+ii libepubgen-0.1.1_2                                          EPUB generator for librevenge
+ii liberation-fonts-ttf-2.1.5_2                                Fonts from RedHat with same metrics as Times, Arial and Courier
+ii libetonyek-0.1.10_2                                         Library to interpret and import Apple Keynote presentations
+ii libev-4.33_1                                                High-performance event loop loosely modelled after libevent
+ii libevdev-1.13.0_1                                           Wrapper library for evdev devices
+ii libevent-2.1.12_3                                           Abstract asynchronous event notification library
+ii libevince-44.3_1                                            GNOME Document viewer for multiple document formats - runtime libraries
+ii libexif-0.6.24_1                                            EXIF file library
+ii libexttextcat-3.4.6_1                                       N-Gram-Based Text Categorization library
+ii libfbclient3-3.0.6.33328_2                                  Relational database offering many ANSI SQL standard features (V3) - client libraries
+ii libfdisk-2.38.1_4                                           Library for fdisk(8)
+ii libffi-3.3_2                                                Library supporting Foreign Function Interfaces
+ii libfftw-3.3.10_2                                            Library for computing the discrete Fourier transform (DFT) - runtime libraries
+ii libflac-1.3.4_2                                             Free Lossless Audio Codec - shared libraries
+ii libfluidsynth-2.3.3_1                                       Real-time software synthesizer based on the SoundFont 2 specifications - runtime library
+ii libfontenc-1.1.7_1                                          Fontenc Library from X.org
+ii libfreehand-0.1.2_3                                         Parser for Aldus/Macromedia/Adobe FreeHand documents
+ii libgbm-23.1.3_1                                             Mesa Generic buffer management API - runtime
+ii libgcc-12.2.0_3                                             GNU Compiler Collection - GCC library
+ii libgcc-devel-12.2.0_3                                       GNU Compiler Collection - GCC library - development files
+ii libgcrypt-1.10.2_1                                          GNU cryptographic library
+ii libgirepository-1.76.1_3                                    Library for handling GObject introspection data (runtime library)
+ii libglapi-23.1.3_1                                           Free implementation of the GL API - shared library
+ii libglvnd-1.6.0_1                                            GL Vendor-Neutral Dispatch library
+ii libgme-0.6.3_1                                              Video game music file emulation/playback library
+ii libgomp-12.2.0_3                                            GNU Compiler Collection - OpenMP v4.0 library
+ii libgpg-error-1.47_1                                         Library for error values used by GnuPG component
+ii libgpgme-1.21.0_1                                           GnuPG Made Easy - library
+ii libgphoto2-2.5.30_2                                         Digital camera access library
+ii libgphoto2-udev-rules-2.5.30_2                              Digital camera access library - udev rules
+ii libgs-10.01.2_1                                             Interpreter for the PostScript language - runtime shared library
+ii libgsm-1.0.22_2                                             GSM 06.10 lossy speech compression
+ii libgtop-2.40.0_2                                            Library to retrieve system information, used in GNOME
+ii libgudev-237_1                                              Library providing GObject bindings for libudev
+ii libgusb-0.4.6_1                                             GLib wrapper around libusb1
+ii libgxps-0.3.2_2                                             GObject base library for XPS documents
+ii libhandy1-1.8.2_1                                           GTK+3 building blocks for modern adaptive applications
+ii libharfbuzz-8.2.2_1                                         OpenType text shaping engine - runtime library
+ii libheif-1.16.2_2                                            ISO/IEC 23008-12:2017 HEIF file format decoder and encoder
+ii libhunspell1.7-1.7.2_1                                      Spell checker and morphological analyzer - runtime library
+ii libid3tag-0.15.1b_8                                         ID3 tag library, part of MAD (MPEG Audio Decoder)
+ii libidn2-2.3.4_1                                             Internationalized string handling library
+ii libinput-1.23.0_1                                           Provides handling input devices in Wayland compositors and X
+ii libinput-gestures-2.57_1                                    Action gestures on your touchpad using libinput
+ii libixion-0.18.1_2                                           General purpose formula parser and interpreter
+ii libjack-1.9.22_1                                            JACK Audio Connection Kit low-latency sound server (pro audio) - runtime library
+ii libjbig2dec-0.20_1                                          Decoder implementation of the JBIG2 image compression format - runtime library
+ii libjpeg-turbo-2.1.5.1_2                                     Derivative of libjpeg which uses SIMD instructions
+ii libjpeg-turbo-tools-2.1.5.1_2                               Derivative of libjpeg which uses SIMD instructions - bundled tools
+ii libjxl-0.8.2_1                                              JPEG XL image format reference implementation
+ii libkeyutils-1.6.3_1                                         Linux Key Management Utilities - runtime library
+ii libkmod-31_1                                                Linux kernel module handling - runtime shared library
+ii libksba-1.6.4_1                                             CMS and X.509 access library
+ii liblangtag-0.6.4_1                                          Interface library to access tags for identifying languages
+ii libldap-2.6.6_1                                             OpenLDAP (Lightweight Directory Access Protocol) library
+ii libldns-1.8.3_2                                             Modern DNS/DNSSEC library
+ii liblilv-0.24.12_4                                           Simple yet powerful C API for using LV2 plugins - Runtime library
+ii libllvm15-15.0.7_2                                          Low Level Virtual Machine - runtime library
+ii liblqr-0.4.2_1                                              C/C++ API for resizing of images by the seam-carving technique
+ii liblrdf-0.6.1_2                                             Lightweight RDF library with special support for LADSPA plugins
+ii libltdl-2.4.7_4                                             Runtime libraries for GNU Libtool Dynamic Module Loader
+ii libluv-1.44.2.1_1                                           Bare libuv bindings for LuaJIT
+ii liblz4-1.9.4_1                                              LZ4 compression library
+ii liblzma-5.4.4_1                                             XZ-format compression library
+ii libmagic-5.45_1                                             File type identification library
+ii libmagick-7.1.1.18_1                                        ImageMagick low-level image manipulation libraries
+ii libmariadbclient-10.5.22_1                                  Fast SQL database server, drop-in replacement for MySQL - client library
+ii libmcpp-2.7.2_8                                             Portable C preprocessor - Runtime library
+ii libmnl-1.0.5_1                                              Minimalistic user-space library oriented to Netlink developers
+ii libmodplug-0.8.9.0_1                                        A MOD playing library
+ii libmount-2.38.1_4                                           Library for mount(8)
+ii libmpdclient-2.20_1                                         Asynchronous API library for interfacing MPD
+ii libmpg123-1.31.3_1                                          Fast console MPEG audio decoder/player - Runtime library
+ii libmspub-0.1.4_11                                           Library for parsing the mspub file structure
+ii libmtp-1.1.21_1                                             Library for Microsoft's Media Transfer Protocol (MTP)
+ii libmwaw-0.3.22_1                                            Import library for legacy Mac documents
+ii libmysofa-1.3.1_1                                           Reader for AES SOFA files to get better HRTFs
+ii libndctl-70.1_1                                             Utility library for managing libnvdimm - ndctl library
+ii libnetfilter_conntrack-1.0.9_1                              Library providing an API to the in-kernel connection tracking table
+ii libnfnetlink-1.0.2_1                                        Low-level library for netfilter kernel/userspace communication
+ii libnfs-5.0.2_1                                              Client library for accessing NFS shares
+ii libnftnl-1.2.6_1                                            Low-level netlink interface to nf_tables
+ii libnice-0.1.21_2                                            Implementation of the IETF's draft ICE (for P2P UDP data streams)
+ii libnl3-3.5.0_1                                              Netlink Protocol Library Suite
+ii libnotify-0.8.2_1                                           Desktop notification library
+ii libnumbertext-1.0.11_1                                      Language-neutral NUMBERTEXT and MONEYTEXT for LibreOffice Calc
+ii libnuspell-5.1.2_3                                          C++ spell checking library
+ii libnvme-1.6_2                                               C Library for NVM Express on Linux
+ii libodfgen-0.1.8_1                                           Library for generating documents in Open Document Format
+ii libogg-1.3.5_1                                              Ogg bitstream file format library
+ii libopenal-1.22.2_1                                          Cross-platform 3D audio library
+ii libopenexr-3.1.11_1                                         High dynamic-range (HDR) image file format - runtime libraries
+ii libopenjpeg2-2.5.0_2                                        Open-source JPEG 2000 codec written in C language (Version 2) - library files
+ii liborcus-0.18.1_2                                           Library for processing spreadsheet documents
+ii libpagemaker-0.0.4_2                                        Parses Aldus/Adobe PageMaker documents
+ii libpaper-1.1.29_1                                           Library for handling paper characteristics
+ii libparted-3.6_1                                             GNU Parted disk partition resizing program - shared library
+ii libpcap-1.10.4_1                                            System-independent interface for user-level packet capture
+ii libpciaccess-0.16_1                                         X11 PCI Access library
+ii libpcre2-10.42_1                                            Perl Compatible Regular Expressions (2nd version) - shared libraries
+ii libpipewire-0.3.82_1                                        Server and user space API to deal with multimedia pipelines - pipewire library
+ii libplacebo-5.264.1_1                                        Reusable library for GPU-accelerated video/image rendering
+ii libpng-1.6.40_1                                             Library for manipulating PNG images
+ii libpoppler-23.08.0_1                                        PDF rendering library - poppler runtime library
+ii libpostproc-4.4.4_3                                         FFmpeg video postprocessing library
+ii libprotobuf-24.1_1                                          Protocol buffers C++ library
+ii libproxy-0.4.18_3                                           Library handling all the details of proxy configuration
+ii libpsl-0.21.2_2                                             Public Suffix List library functions
+ii libptytty-2.0_1                                             Library for pty/tty/utmp/wtmp/lastlog handling
+ii libpulseaudio-15.0_5                                        Featureful, general-purpose sound server - shared libraries
+ii libqxp-0.0.2_9                                              Parser for QuarkXPress file format documents
+ii libraptor-2.0.16_1                                          Raptor RDF Syntax Library - Runtime libraries
+ii libraqm-0.7.0_1                                             Library for complex text layout
+ii librasqal-0.9.33_3                                          RDF Query Library - Runtime libraries
+ii librdf-1.0.17_6                                             Redland Resource Description Framework (RDF) - library
+ii libreadline8-8.2.001_1                                      GNU Readline Library
+ii libreoffice-7.6.0.3_3                                       Productivity suite
+ii libreoffice-base-7.6.0.3_3                                  Productivity suite - Database frontend
+ii libreoffice-calc-7.6.0.3_3                                  Productivity suite - Spreadsheet
+ii libreoffice-common-7.6.0.3_3                                Productivity suite - Common files
+ii libreoffice-draw-7.6.0.3_3                                  Productivity suite - Drawing application
+ii libreoffice-fonts-7.6.0.3_3                                 Productivity suite - Fonts
+ii libreoffice-gnome-7.6.0.3_3                                 Productivity suite - GNOME integration
+ii libreoffice-i18n-de-7.6.0.3_3                               Productivity suite - German language pack
+ii libreoffice-i18n-en-US-7.6.0.3_3                            Productivity suite - English (US) language pack
+ii libreoffice-i18n-es-7.6.0.3_3                               Productivity suite - Spanish language pack
+ii libreoffice-i18n-fr-7.6.0.3_3                               Productivity suite - French language pack
+ii libreoffice-i18n-it-7.6.0.3_3                               Productivity suite - Italian language pack
+ii libreoffice-i18n-pl-7.6.0.3_3                               Productivity suite - Polish language pack
+ii libreoffice-i18n-pt-7.6.0.3_3                               Productivity suite - Portuguese language pack
+ii libreoffice-impress-7.6.0.3_3                               Productivity suite - Presentation application
+ii libreoffice-math-7.6.0.3_3                                  Productivity suite - Equation editor
+ii libreoffice-postgresql-7.6.0.3_3                            Productivity suite - Connector for PostgreSQL
+ii libreoffice-writer-7.6.0.3_3                                Productivity suite - Word processor
+ii libreoffice-xtensions-7.6.0.3_3                             Productivity suite - Extensions
+ii librevenge-0.0.5_1                                          Library for REVerses ENGineered formats filters
+ii librist-0.2.7_1                                             Reliable Internet Stream Transport (RIST)
+ii librsvg-2.56.3_1                                            SVG library for GNOME
+ii librtmp-2.4.20161210_10                                     Toolkit for RTMP streams - shared library
+ii librubberband-3.3.0_1                                       Time-stretching and pitch-shifting audio library - Runtime libraries
+ii libsamplerate-0.2.2_1                                       Sample Rate Converter for audio
+ii libsane-1.2.1_1                                             Scanner Access Now Easy - runtime shared library
+ii libsasl-2.1.28_2                                            Cyrus SASL - runtime shared libraries
+ii libseccomp-2.5.4_1                                          High level interface to the Linux Kernel's seccomp filter
+ii libsecret-0.20.5_2                                          GObject based library for accessing the Secret Service API
+ii libsensors-3.6.0_1                                          Library to read temperature/voltage/fan sensors
+ii libserd-0.30.16_1                                           Lightweight C library for RDF syntax - Runtime library
+ii libsharpyuv-1.3.2_1                                         Library to expose libwebp's sharpyuv functionality
+ii libsmartcols-2.38.1_4                                       Table or Tree library from util-linux
+ii libsndfile-1.2.0_1                                          C library for reading and writing files containing sampled sound
+ii libsndio-1.9.0_1                                            Small audio and MIDI framework part of the OpenBSD project -- library
+ii libsodium-1.0.18_1                                          Modern and easy-to-use crypto library
+ii libsord-0.16.14_1                                           Lightweight C library for storing RDF data in memory - Runtime library
+ii libsoup3-3.4.2_1                                            HTTP library implementation in C
+ii libsoxr-0.1.3_2                                             SoX resampler library
+ii libspa-alsa-0.3.82_1                                        Server and user space API to deal with multimedia pipelines - alsa plugins
+ii libspa-audioconvert-0.3.82_1                                Server and user space API to deal with multimedia pipelines - audioconvert plugins
+ii libspa-audiomixer-0.3.82_1                                  Server and user space API to deal with multimedia pipelines - audiomixer plugins
+ii libspa-control-0.3.82_1                                     Server and user space API to deal with multimedia pipelines - control plugins
+ii libspa-v4l2-0.3.82_1                                        Server and user space API to deal with multimedia pipelines - v4l2 plugins
+ii libspectre-0.2.11_2                                         Small library for rendering Postscript documents
+ii libspeex-1.2.1_1                                            Free codec for free speech - shared libraries
+ii libspiro-20221101_1                                         Simplifies the drawing of beautiful curves
+ii libsrt-1.5.3_1                                              Secure, Reliable, Transport - development files
+ii libsrtp-2.5.0_2                                             Library implementing SRTP, the Secure Real-time Transport Protocol
+ii libssh2-1.11.0_2                                            Library implementing the SSH2 protocol
+ii libssl3-3.1.2_1                                             Toolkit for Secure Sockets Layer and Transport Layer Security - SSL/TLS library
+ii libstdc++-12.2.0_3                                          GNU Compiler Collection - Standard C++ Library
+ii libstdc++-devel-12.2.0_3                                    GNU Compiler Collection - Standard C++ Library - development files
+ii libsvt-av1-1.7.0_1                                          AV1-compliant encoder/decoder library core - library files
+ii libswresample-4.4.4_3                                       FFmpeg video resampling library
+ii libswscale-4.4.4_3                                          FFmpeg video scaling library
+ii libsynctex-20210325_7                                       TeX Live - libsynctex
+ii libtasn1-4.19.0_1                                           ASN.1 structure parser library
+ii libtdb-1.4.9_2                                              Trivial Database, similar to GDBM but allows simultaneous commits - shared libraries
+ii libtermkey-0.22_1                                           Library for processing keyboard entry from terminal-based programs
+ii libthai-0.1.29_1                                            Thai language support routines
+ii libtheora-1.1.1_8                                           Theora Video Compression Codec
+ii libtirpc-1.3.2_1                                            Transport Independent RPC library (SunRPC replacement)
+ii libtommath-1.2.1_1                                          Portable number theoretic multiple-precision integer library
+ii libtracker-3.6.0_1                                          Personal search tool and storage system - shared libraries
+ii libunbound-1.18.0_1                                         Validating, recursive, and caching DNS resolver - shared library
+ii libunistring-1.0_1                                          Library for manipulating Unicode strings and C strings
+ii liburcu-0.14.0_1                                            Userspace RCU (read-copy-update) library
+ii libusb-1.0.26_1                                             Library which allows userspace access to USB devices
+ii libuuid-2.38.1_4                                            UUID library
+ii libuv-1.46.0_1                                              Multi-platform support library with a focus on asynchronous I/O
+ii libva-2.20.0_1                                              Video Acceleration (VA) API
+ii libvamp-plugin-sdk-2.10.0_1                                 Vamp audio analysis plugin system - Runtime libraries
+ii libvdpau-1.5_1                                              Video Decode and Presentation API for UNIX
+ii libvidstab-1.1.0_2                                          Video stabilization library
+ii libvisio-0.1.7_7                                            Library for reading and converting MS Visio diagrams
+ii libvisual-0.4.1_1                                           Abstraction library for audio visualisation plugins
+ii libvoikko-4.3.1_3                                           Free linguistic software and data for Finnish
+ii libvorbis-1.3.7_1                                           The Vorbis General Audio Compression Codec
+ii libvpx-1.13.0_1                                             VP8 and VP9 video codec
+ii libvterm-0.3.2_1                                            Abstract VT220/xterm/ECMA-48 emulation library
+ii libwacom-2.8.0_1                                            Library to identify wacom tablets
+ii libwebp-1.3.2_1                                             WebP image format
+ii libwmf-0.2.8.4_18                                           Library for reading and converting WMF (Windows Meta Files)
+ii libwoff2common1.0.2-1.0.2_1                                 Web Open Font Format 2 reference implementaton - common library
+ii libwoff2dec1.0.2-1.0.2_1                                    Web Open Font Format 2 reference implementaton - decoder library
+ii libwoff2enc1.0.2-1.0.2_1                                    Web Open Font Format 2 reference implementaton - encoder library
+ii libwpd-0.10.3_1                                             Library for importing WordPerfect documents
+ii libwpg-0.3.3_1                                              Library for importing WordPerfect Graphics
+ii libwps-0.4.12_1                                             Library for importing Microsoft Works documents
+ii libxbps-0.59.2_1                                            XBPS package system utilities - runtime library
+ii libxcb-1.16_1                                               X protocol C-language Binding
+ii libxcvt-0.1.2_1                                             VESA CVT standard timing modelines generator
+ii libxfce4panel-4.18.5_1                                      Next generation panel for the XFCE desktop environment - runtime library
+ii libxfce4ui-4.18.4_1                                         Replacement of the old libxfcegui4 library
+ii libxfce4util-4.18.1_1                                       Utility library for the Xfce4 desktop environment
+ii libxkbcommon-1.5.0_1                                        Library to handle keyboard descriptions
+ii libxkbcommon-x11-1.5.0_1                                    Library to handle keyboard descriptions - X11 support
+ii libxkbfile-1.1.2_1                                          Xkbfile Library from X.org
+ii libxkbregistry-1.5.0_1                                      XKB API to query available rules, models, layouts, variants and options
+ii libxml2-2.11.4_4                                            Library providing XML and HTML support
+ii libxmlb-0.3.8_1                                             Library to help create and query binary XML blobs
+ii libxshmfence-1.3_2                                          X Shared memory 'SyncFence' synchronization primitive
+ii libxslt-1.1.38_2                                            XSLT parser library from the GNOME project
+ii libyaml-0.2.5_1                                             Fast YAML 1.1 parser and emitter library
+ii libzbar-0.23.1_7                                            Barcode reading library and application - library files
+ii libzstd-1.5.5_2                                             Fast real-time compression algorithm
+ii linux-6.5_1                                                 Linux kernel meta package
+ii linux-base-2023.05.29_1                                     Linux kernel base dependencies
+ii linux-firmware-amd-20230804_1                               Binary firmware blobs for the Linux kernel - AMD CPU/GPU microcode
+ii linux-firmware-broadcom-20230804_1                          Binary firmware blobs for the Linux kernel - Broadcom network blobs
+ii linux-firmware-network-20230804_1                           Binary firmware blobs for the Linux kernel - network
+ii linux6.5-6.5.8_1                                            Linux kernel and modules (6.5 series)
+ii lowdown-1.0.2_1                                             Simple markdown translator
+ii lpsolve-5.5.2.5_2                                           Mixed Integer Linear Programming (MILP) solver
+ii lua52-5.2.4_12                                              Powerful, fast, lightweight, embeddable scripting language (5.2.x)
+ii lua54-5.4.6_1                                               Powerful, fast, lightweight, embeddable scripting language (5.4.x)
+ii lxappearance-0.6.3_5                                        LXDE Theme Switcher
+ii lzo-2.10_2                                                  Portable lossless data compression library
+ii make-4.4.1_1                                                GNU Make build tool
+ii man-pages-6.05.01_1                                         Linux Documentation Project (LDP) manual pages
+ii mbedtls-2.16.12_1                                           Portable cryptographic TLS library
+ii mcpp-2.7.2_8                                                Portable C preprocessor
+ii mdocml-1.14.6_7                                             UNIX manpage compiler toolset (mandoc)
+ii mesa-23.1.3_1                                               Open source implementation of OpenGL and Vulkan
+ii mesa-dri-23.1.3_1                                           Mesa DRI drivers
+ii mit-krb5-libs-1.21.2_3                                      MIT Kerberos 5 implementation - runtime libraries
+ii mkfontscale-1.2.2_1                                         X11 Scalable Font Index Generator
+ii mpc-0.34_1                                                  Minimalist command line interface to MPD
+ii mpfr-4.2.1_1                                                Library for multiple-precision floating-point computations
+ii mpv-0.36.0_2                                                Video player based on MPlayer/mplayer2
+ii msgpack-4.0.0_1                                             Binary-based efficient object serialization library for C
+ii mtdev-1.1.6_1                                               Multitouch Protocol Translation Library
+ii mythes-1.2.4_5                                              Simple thesaurus that uses a structured text data
+ii ncmpcpp-0.9.2_11                                            Ncurses mpd client inspired by ncmpc
+ii ncurses-6.4_2                                               System V Release 4.0 curses emulation library
+ii ncurses-base-6.4_2                                          System V Release 4.0 curses emulation library - base terminfo files
+ii ncurses-libs-6.4_2                                          System V Release 4.0 curses emulation library -- shared libraries
+ii neovim-0.9.4_1                                              Fork of Vim aiming to improve user experience, plugins and GUIs
+ii nettle-3.9.1_1                                              Low-level cryptographic library
+ii nghttp2-1.56.0_1                                            HTTP/2 C Library
+ii nix-2.11.0_8                                                Purely functional package manager
+ii nodejs-18.16.0_3                                            Evented I/O for V8 javascript
+ii noto-fonts-ttf-23.10.1_1                                    Google Noto TTF Fonts
+ii noto-fonts-ttf-extra-23.10.1_1                              Google Noto TTF Fonts - additional variants
+ii npth-1.6_1                                                  New portable threads library
+ii nspr-4.35_1                                                 NetScape Portable Runtime
+ii nss-3.94_1                                                  Mozilla Network Security Services
+ii nsxiv-32_1                                                  Neo (or New or Not) Simple (or Small or Suckless) X Image Viewer
+ii ntfs-3g-2022.10.3_1                                         Stable Read/Write NTFS Driver in userspace
+ii nvi-1.81.6_19                                               Berkeley Vi Editor
+ii ocl-icd-2.3.2_2                                             Generic OpenCL ICD loader/demultiplexer
+ii openssh-9.5p1_1                                             OpenSSH free Secure Shell (SSH) client and server implementation
+ii openssl-3.1.2_1                                             Toolkit for Secure Sockets Layer and Transport Layer Security
+ii opus-1.4_1                                                  Totally open, royalty-free, highly versatile audio codec
+ii orc-0.4.33_1                                                Oild Runtime Compiler
+ii os-prober-1.81_1                                            Utility to detect other OSes on a set of drives
+ii ostree-2023.6_1                                             Operating system and container binary deployment and upgrades
+ii p11-kit-0.25.0_1                                            Provides a way to load and enumerate PKCS#11 modules
+ii p7zip-23.01_1                                               Command-line version of the 7zip compressed file archive (transitional dummy package)
+ii pam-1.5.3_2                                                 Flexible mechanism for authenticating users
+ii pam-base-0.4_2                                              PAM base configuration files
+ii pam-libs-1.5.3_2                                            Flexible mechanism for authenticating users - runtime libraries
+ii pango-1.50.14_1                                             Library for layout and rendering of text
+ii papirus-folders-1.12.1_1                                    Allows to change the color of folders
+ii papirus-icon-theme-20230901_1                               SVG icon theme for Linux, based on Paper Icon Set
+ii pciutils-3.10.0_1                                           PCI bus related utilities
+ii perl-5.38.0_1                                               Practical Extraction and Report Language
+ii perl-Authen-SASL-2.1700_1                                   Authen::SASL -- SASL authentication framework
+ii perl-Convert-BinHex-1.125_3                                 Perl module to extract data from Macintosh BinHex files
+ii perl-Curses-1.36_6                                          Terminal screen handling and optimization
+ii perl-Digest-HMAC-1.04_1                                     Perl interface to HMAC message-digest algorithms
+ii perl-IO-Socket-SSL-2.083_1                                  IO::Socket::SSL -- SSL sockets with IO::Socket interface
+ii perl-IO-stringy-2.113_2                                     IO::stringy -- I/O on in-core objects like strings/arrays
+ii perl-MIME-tools-5.510_1                                     MIME-tools -- Parses streams to create MIME entities
+ii perl-MailTools-2.21_3                                       MailTools -- Various e-mail related modules
+ii perl-Net-SMTP-SSL-1.04_3                                    Net::SMTP::SSL -- SSL support for Net::SMTP
+ii perl-Net-SSLeay-1.92_4                                      Net::SSLeay - Perl extension for using OpenSSL
+ii perl-Term-Animation-2.6_3                                   Terminal Animation module for perl
+ii perl-TimeDate-2.33_2                                        TimeDate -- Date formating subroutines
+ii perl-URI-5.21_1                                             Perl Uniform Resource Identifiers class (URI, RFC 2396)
+ii pinentry-1.2.1_1                                            PIN or passphrase entry dialogs for GnuPG
+ii pipewire-0.3.82_1                                           Server and user space API to deal with multimedia pipelines
+ii pixman-0.42.2_1                                             Library of low-level pixel manipulation routines
+ii pkg-config-0.29.2_3                                         System for managing library compile/link flags
+ii polkit-121_1                                                Authorization Toolkit
+ii polkit-elogind-121_1                                        Authorization Toolkit (transitional dummy package)
+ii poppler-data-0.4.12_1                                       Encoding data for the poppler PDF rendering library
+ii poppler-glib-23.08.0_1                                      PDF rendering library - GLib bindings
+ii popt-1.19_1                                                 Command line option parsing library
+ii postgresql-libs-15.3_4                                      PostgreSQL shared libraries
+ii procps-ng-4.0.4_1                                           Utilities for monitoring your system and its processes
+ii pulseaudio-utils-15.0_5                                     Featureful, general-purpose sound server - utilities
+ii python3-3.12.0_1                                            Python programming language (3.12 series)
+ii python3-cairo-1.24.0_2                                      Python3 bindings for the cairo graphics library
+ii python3-docopt-0.6.2_10                                     Pythonic argument parser, that will make you smile (Python3)
+ii python3-gobject-3.46.0_2                                    Python3 bindings for GObject
+ii python3-keyutils-0.6_9                                      Python3 bindings for keyutils
+ii python3-yaml-6.0_4                                          YAML parser and emitter for Python 3
+ii qt5-core-5.15.7+20221119_7                                  Cross-platform application and UI framework (QT5) - Core
+ii qt5-dbus-5.15.7+20221119_7                                  Cross-platform application and UI framework (QT5) - DBus
+ii qt5-declarative-5.15.7+20221119_7                           Cross-platform application and UI framework (QT5) - Declarative component
+ii qt5-gui-5.15.7+20221119_7                                   Cross-platform application and UI framework (QT5) - Gui
+ii qt5-network-5.15.7+20221119_7                               Cross-platform application and UI framework (QT5) - Network
+ii qt5-sql-5.15.7+20221119_7                                   Cross-platform application and UI framework (QT5) - Sql
+ii qt5-svg-5.15.7+20221119_7                                   Cross-platform application and UI framework (QT5) - Svg component
+ii qt5-test-5.15.7+20221119_7                                  Cross-platform application and UI framework (QT5) - Test
+ii qt5-widgets-5.15.7+20221119_7                               Cross-platform application and UI framework (QT5) - Widgets
+ii qt5-xml-5.15.7+20221119_7                                   Cross-platform application and UI framework (QT5) - Xml
+ii qt5-xmlpatterns-5.15.7+20221119_7                           Cross-platform application and UI framework (QT5) - XML components
+ii qtchooser-66_3                                              Qt4/Qt5 version chooser
+ii ranger-1.9.3_5                                              File manager with an ncurses frontend written in Python
+ii removed-packages-0.1.20231019_1                             Uninstalls packages removed from repository
+ii retroarch-1.15.0_4                                          Official reference frontend for the libretro API
+ii ripgrep-13.0.0_2                                            Fast search tool inspired by ag and grep
+ii rofi-1.7.5_1                                                Window switcher, run dialog and dmenu replacement
+ii run-parts-4.11.2_2                                          Run scripts or programs in a directory
+ii runit-2.1.2_15                                              UNIX init scheme with service supervision
+ii runit-void-20230413_1                                       Void Linux runit scripts
+ii rxvt-unicode-9.31_3                                         Terminal emulator supporting Xft fonts and Unicode
+ii rxvt-unicode-terminfo-9.31_3                                Terminal emulator supporting Xft fonts and Unicode - terminfo data
+ii sane-1.2.1_1                                                Scanner Access Now Easy
+ii sbc-2.0_1                                                   Bluetooth Subband Codec (SBC) library
+ii scrot-1.10_1                                                Simple command-line screenshot utility for X
+ii sed-4.9_1                                                   The GNU stream editor
+ii shaderc-2022.2_1                                            Collection of tools, libraries and tests for shader compilation
+ii shadow-4.8.1_2                                              Shadow password file utilities
+ii shared-mime-info-2.2_1                                      Core database of common types
+ii soundtouch-2.3.2_1                                          SoundTouch Audio Processing Library
+ii spandsp-0.0.6_4                                             Library of many DSP functions for telephony
+ii speexdsp-1.2.1_1                                            Free codec for free speech - DSP
+ii sqlite-3.43.2_1                                             SQL Database Engine in a C Library
+ii sratom-0.6.14_1                                             Library for serialising LV2 atoms to/from RDF (Turtle syntax)
+ii startup-notification-0.12_11                                Library for tracking application startup
+ii sudo-1.9.14p3_1                                             Allow others to run commands as root
+ii sxhkd-0.6.2_1                                               Simple X HotKey Daemon
+ii sxiv-32_1                                                   Neo (or New or Not) Simple (or Small or Suckless) X Image Viewer - (transitional package)
+ii taglib-1.13.1_1                                             Library for accessing ID tags in various media files
+ii tar-1.35_1                                                  GNU tape archiver with remote magnetic tape support
+ii thunar-archive-plugin-0.5.1_1                               Create and extract archives in Thunar
+ii thunar-media-tags-plugin-0.4.0_1                            Adds special features for media files to the Thunar File Manager
+ii thunar-volman-4.18.0_1                                      Thunar Volume Manager
+ii tiff-4.5.1_1                                                Library and tools for reading and writing TIFF data files
+ii tlp-1.5.0_3                                                 Advanced power management tool for Linux
+ii traceroute-2.1.3_1                                          Traces the route taken by packets over an IPv4/IPv6 network
+ii tree-sitter-0.20.8_1                                        Parser generator tool and incremental parsing library
+ii tslib-1.22_1                                                Touchscreen access library
+ii tzdata-2023c_1                                              Time zone and daylight-saving time data
+ii uchardet-0.0.8_1                                            Encoding detector library ported from Mozilla
+ii udiskie-2.5.0_1                                             Removable disk automounter using udisks
+ii udisks2-2.10.1_1                                            Disk Management Service, version 2
+ii unibilium-2.1.1_1                                           Simple, self-contained terminfo library
+ii unzip-6.0_15                                                List, test and extract compressed files in a ZIP archive
+ii urxvt-perls-2.3_2                                           Perl extensions for the rxvt-unicode terminal emulator
+ii usbutils-015_1                                              Linux USB utilities
+ii util-linux-2.38.1_4                                         Miscellaneous linux utilities
+ii util-linux-common-2.38.1_4                                  Miscellaneous linux utilities - common files
+ii v4l-utils-1.24.1_1                                          Userspace tools and libraries for Video 4 Linux
+ii vim-9.0.1903_3                                              Vim editor (vi clone)
+ii vim-common-9.0.1903_3                                       Vim editor (vi clone) - common files
+ii vmaf-2.3.1_1                                                Perceptual video quality assessment algorithm developed by Netflix
+ii void-artwork-20221013_1                                     Void Linux artwork
+ii volume_key-0.3.12_7                                         Library for manipulating storage volume encryption keys
+ii vulkan-loader-1.3.231.2_1                                   Vulkan Installable Client Driver (ICD) loader
+ii w3m-0.5.3+git20230121_2                                     Text-based Web browser and pager (with Debian patches)
+ii w3m-img-0.5.3+git20230121_2                                 Text-based Web browser and pager (with Debian patches) - image display support
+ii wayland-1.22.0_1                                            Core Wayland window system code and protocol
+ii webrtc-audio-processing-0.3.1_1                             AudioProcessing library based on Google's implementation of WebRTC
+ii wget-1.21.4_2                                               GNU wget download utility
+ii which-2.21_4                                                Displays where a particular program in your path is located
+ii wifi-firmware-1.3_4                                         WiFi firmware meta-package
+ii wireplumber-0.4.15_1                                        Session and policy manager implementation for PipeWire
+ii wmctrl-1.07_6                                               CLI tool to interact with EWMH compliant WMs
+ii wpa_supplicant-2.10_4                                       WPA/WPA2/IEEE 802.1X Supplicant
+ii x264-20191217.2245_1                                        Free library for encoding H264/AVC video streams
+ii x265-3.5_1                                                  Open Source H.265/HEVC video encoder
+ii xarchiver-0.5.4.21_1                                        Lightweight desktop independent archive manager
+ii xauth-1.1.2_1                                               X authentication utility
+ii xbps-0.59.2_1                                               XBPS package system utilities
+ii xbps-triggers-0.126_1                                       XBPS triggers for Void Linux
+ii xcb-util-0.4.1_1                                            XCB utilities library
+ii xcb-util-cursor-0.1.4_1                                     XCB cursor library (libxcursor port)
+ii xcb-util-image-0.4.1_1                                      Utility libraries for XCB - XImage and XShmImage functions
+ii xcb-util-keysyms-0.4.1_1                                    Utility libraries for XCB - key constants and keycode conversion
+ii xcb-util-renderutil-0.3.10_1                                Utility libraries for XCB - Render extension convenience functions
+ii xcb-util-wm-0.4.2_1                                         Utility libraries for XC Binding - window-manager helpers for ICCCM
+ii xcb-util-xrm-1.3_1                                          XCB utility functions for the X resource manager
+ii xdg-dbus-proxy-0.1.5_1                                      Filtering proxy for D-Bus connections
+ii xdg-utils-1.1.3_5                                           Tools to assist applications with various desktop integration tasks
+ii xdotool-3.20211022.1_1                                      Command-line X11 automation tool
+ii xdpyinfo-1.3.4_2                                            Display information utility for X
+ii xev-1.2.5_1                                                 Display X events
+ii xf86-input-libinput-1.4.0_1                                 Generic input driver for the X.Org server based on libinput
+ii xf86-video-amdgpu-23.0.0_1                                  Xorg AMD Radeon RXXX video driver (amdgpu kernel module)
+ii xfconf-4.18.1_1                                             Xfce hierarchical (tree-like) configuration system
+ii xfsprogs-6.4.0_1                                            Utilities for managing the XFS filesystem
+ii xinit-1.4.2_1                                               X init program
+ii xkbcomp-1.4.6_1                                             XKBD keymap compiler
+ii xkeyboard-config-2.39_1                                     X Keyboard Configuration Database
+ii xmlsec1-1.3.1_2                                             XML Security Library is a C library based on LibXML2
+ii xorg-minimal-1.2_2                                          Xorg meta-package including xorg-xserver and needed tools
+ii xorg-server-21.1.8_2                                        X11 server from X.org
+ii xorg-server-common-21.1.8_2                                 X11 server from X.org- common files
+ii xrandr-1.5.2_1                                              Primitive command line interface to RandR extension
+ii xrdb-1.2.2_1                                                X server resource database utility
+ii xset-1.2.5_2                                                X11 user preferences utility
+ii xsetroot-1.1.3_1                                            X root window parameter setting program
+ii xvidcore-1.3.7_1                                            ISO MPEG-4 compliant video codec
+ii xxd-9.0.1903_3                                              Make a hexdump or do the reverse
+ii xz-5.4.4_1                                                  XZ compression utilities
+ii zathura-0.5.2_1                                             Highly customizable and functional document viewer
+ii zathura-pdf-mupdf-0.4.1_2                                   PDF support for zathura (using mupdf)
+ii zd1211-firmware-1.5_3                                       Firmware for the Zydas 1211 wifi cards
+ii zip-3.0_6                                                   Create/update ZIP files compatible with pkzip
+ii zlib-1.3_1                                                  Compression/decompression Library
+ii zxing-cpp-2.1.0_1                                           Multi-format 1D/2D barcode image processing library
