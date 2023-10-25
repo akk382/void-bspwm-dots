@@ -1,0 +1,4 @@
+UUID=<ROOT_UUIT> / btrfs defaults 0 0
+UUID=<SWAP_UUID> none swap defaults 0 0
+UUID=<EFI_UUID> /boot/efi vfat defaults 0 2
+tmpfs /tmp tmpfs defaults,nosuid,nodev 0 0

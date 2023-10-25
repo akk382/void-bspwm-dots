@@ -1,0 +1,5 @@
+#!/bin/bash
+
+now="$(date +"%R")"
+
+notify-send "Time: $now"
