@@ -1,7 +1,0 @@
-#!/bin/bash
-
-notify-time
-notify-date
-notify-battery
-notify-volume
-notify-brightness

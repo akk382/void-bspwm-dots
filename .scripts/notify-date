@@ -1,4 +1,0 @@
-#!/bin/bash
-
-today="$(date +"%D")"
-notify-send "Date: $today"
