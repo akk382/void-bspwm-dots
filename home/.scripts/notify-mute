@@ -2,6 +2,7 @@
 
 output_string="$(amixer set 'Master' toggle | grep Mono | grep -v channels)"
 
+muted=0
 notify_string='Unmuted'
 
 if [[ $output_string == *"[off]"* ]]; then
