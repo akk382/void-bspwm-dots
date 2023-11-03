@@ -29,4 +29,6 @@ urxvtd -q &
 feh --bg-scale --randomize ~/.wallpapers/*
 # feh --bg-scale ~/.wallpapers/11.jpg
 
+~/.config/polybar/blocks/./launch.sh &
+
 notify-send "Welcome to VOID"
