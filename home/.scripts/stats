@@ -5,3 +5,5 @@ notify-date
 notify-battery
 notify-volume
 notify-brightness
+notify-wifi
+notify-bt

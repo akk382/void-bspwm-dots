@@ -8,7 +8,7 @@ super + Return
 
 # program launcher
 super + @space
-	dmenu_run
+	dmenu_custom
 
 super + alt + f
 	thunar
@@ -30,6 +30,10 @@ Print
 # notifies time, date, battery, charging status, volume, and brightness
 F1
 	stats
+
+# This turns off the bluetooth and wifi
+F11
+	airplanemode
 
 #
 # bspwm hotkeys
@@ -154,17 +158,20 @@ XF86AudioMute
 	notify-mute
 
 
-#XF86AudioPlay
-#	add play/pause song command
+XF86AudioPlay
+	mpc toggle
 
-#XF86AudioPrev
-#	add prev song command
+XF86AudioPrev
+	mpc prev
 
-#XF86AudioNext
-#	add next song command
+XF86AudioNext
+	mpc next
 
-#XF86AudioStop
-#	add stop song command
+XF86AudioPause
+	mpc toggle
+
+XF86AudioStop
+	mpc stop
 
 XF86MonBrightnessUp
 	xbacklight -inc 5

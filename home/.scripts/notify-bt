@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+connectedTo="$(bluetoothctl info | grep 'Name: ' | awk -F ': ' '{print $2}')"
+
+msg=$connectedTo
+
+if [[ -z "$msg" ]]; then
+	msg="Offline"
+fi
+
+notify-send "BT: $msg"

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# btId="$(rfkill | grep 'wlan' | awk -F ' ' '{print $1}')"
+
+# rfkill unblock $btId
+
+# Requires TLP to be installed
+wifi on > /dev/null

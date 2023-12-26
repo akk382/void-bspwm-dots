@@ -2,10 +2,10 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-bspc monitor -d I II III IV V
+bspc monitor -d I II III IV V VI VII VIII
 
-bspc config border_width        4
-bspc config window_gap          8
+bspc config border_width        0 # 4
+bspc config window_gap          0
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
@@ -26,9 +26,14 @@ xsetroot -cursor_name left_ptr &
 sxhkd &
 xrdb ~/.Xresources
 urxvtd -q &
-feh --bg-scale --randomize ~/.wallpapers/*
-# feh --bg-scale ~/.wallpapers/11.jpg
-
-~/.config/polybar/blocks/./launch.sh &
+# feh --bg-scale --randomize ~/.wallpapers/*
+feh --bg-scale ~/.wallpapers/wallhaven-x6p3y3_1920x1200.png
+picom -b &
+mpd --no-daemon &
+# ~/.config/polybar/colorblocks/./launch.sh &
+pipewire &
+boff &
+woff &
+mpd --no-daemon &
 
 notify-send "Welcome to VOID"

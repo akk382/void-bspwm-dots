@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# btId="$(rfkill | grep 'bluetooth' | awk -F ' ' '{print $1}')"
+
+# rfkill unblock $btId
+
+# Requires TLP to be installed
+bluetooth on > /dev/null

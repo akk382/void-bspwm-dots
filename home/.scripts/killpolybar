@@ -1,0 +1,8 @@
+#!/bin/bash
+
+polybarId="$(ps -ax | grep 'polybar -q' | grep -v grep | awk -F ' ' '{print $1}')"
+
+if [[ polybarId -ne '' ]]; then
+	kill -s 9 $polybarId;
+fi
+

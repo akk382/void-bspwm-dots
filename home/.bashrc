@@ -19,23 +19,30 @@ alias pi="xbps-query -list | nl"
 ## change papirus folder colors
 alias folder-color="papirus-folders --theme Papirus-Dark -C"
 
-alias sxhkdrc="vim ~/.config/sxhkd/sxhkdrc"
-alias bspwmrc="vim ~/.config/bspwm/bspwmrc"
-alias bashrc="vim ~/.bashrc"
+alias vim="nvim"
+alias sxhkdrc="nvim ~/.config/sxhkd/sxhkdrc"
+alias bspwmrc="nvim ~/.config/bspwm/bspwmrc"
+alias bashrc="nvim ~/.bashrc"
 alias sbash="source ~/.bashrc"
 alias lu="betterlockscreen -u"
 alias bg-update="feh --bg-scale"
 alias cd..="cd .."
-alias dunstrc="vim ~/.config/dunst/dunstrc"
+alias dunstrc="nvim ~/.config/dunst/dunstrc"
 alias pc="xbps-query -list | wc -l"
 alias netdown="sudo ip link set wlp1s0 down"
 alias netup="sudo ip link set wlp1s0 up"
 alias netrst="sudo ip link set wlp1s0 down && sudo ip link set wlp1s0 up"
 alias psg="ps -ax | grep $1 | grep -v grep"
-alias fap="feh -FZD 10 ~/Downloads/sht/ && exit"
+#alias fap="feh -FZD 10 ~/Downloads/sht/ && exit"
+alias gitt="eval \"$(ssh-agent -s)\" && ssh-add ~/my_git"
+alias dockerd="dockerd-rootless.sh &"
 
 ## Exports
 
 export PATH=$PATH:/home/arun/.scripts
+export PATH=/home/arun/bin:$PATH
+export DOCKER_HOST=unix://$XDG_RUNTIME_DIR/docker.sock
 fet
 
+
+export PATH=$PATH:/home/arun/.spicetify

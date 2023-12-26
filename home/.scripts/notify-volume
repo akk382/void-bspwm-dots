@@ -1,4 +1,4 @@
 #!/bin/bash
 
-notify-send "Volume: $(amixer get 'Master' | grep Mono | grep -v channels | awk -F ' ' '{print $4}' | awk -F '[' '{print $2}' | awk -F ']' '{print $1}')"
+notify-send "Volume: $(amixer get 'Master' | grep Left | grep -v Right | awk -F ' ' '{print $5}' | awk -F '[' '{print $2}' | awk -F ']' '{print $1}')"
 

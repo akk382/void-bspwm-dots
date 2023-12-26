@@ -1,0 +1,8 @@
+#!/bin/bash
+
+connectedTo="$(wpa_cli status | grep '^ssid' | awk -F '=' '{print $2}')"
+msg=$connectedTo
+if [[ -z "$connectedTo" ]]; then
+	msg="Offline"
+fi
+notify-send "WIFI: $msg"

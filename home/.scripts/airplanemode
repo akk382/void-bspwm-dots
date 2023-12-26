@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# wifi_state="$(wifi | awk -F '= ' '{print $2}' | awk -F ' ' '{print $1}')"
+# bt_state="$(bluetooth | awk -F '= ' '{print $2}' | awk -F ' ' '{print $1}')"
+
+# Requires TLP to be installed
+wifi_state="$(wifi | grep on)"
+bt_state="$(bluetooth | grep on)"
+
+# if both are turned off, then we need to turn off airplane mode
+if [[ -z "$wifi_state" ]] && [[ -z "$bt_state" ]]; then
+	won && bon
+else
+	woff && boff
+fi
