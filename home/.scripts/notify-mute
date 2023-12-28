@@ -1,6 +1,10 @@
 #!/bin/bash
 
-output_string="$(amixer set 'Master' toggle | grep Mono | grep -v channels)"
+## Before pipewire instaallation
+# output_string="$(amixer set 'Master' toggle | grep Mono | grep -v channels)"
+
+## After pipewire instaallation
+output_string="$(amixer set 'Master' toggle | grep Left | grep -v Right)"
 
 muted=0
 notify_string='Unmuted'
