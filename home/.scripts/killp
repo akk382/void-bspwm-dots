@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Killing process $1"
+kill -s 9 $1

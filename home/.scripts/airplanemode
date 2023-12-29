@@ -7,9 +7,13 @@
 wifi_state="$(wifi | grep on)"
 bt_state="$(bluetooth | grep on)"
 
+msg="Off"
 # if both are turned off, then we need to turn off airplane mode
 if [[ -z "$wifi_state" ]] && [[ -z "$bt_state" ]]; then
 	won && bon
 else
 	woff && boff
+	msg="On"
 fi
+
+notify-send "Airplane Mode: $msg"

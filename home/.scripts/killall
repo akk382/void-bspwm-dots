@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Killing all $1 processes"
+for pid in "$(ps -ax | grep $1 | grep -v grep | awk '{print $1}')"
+do
+	kill -s 9 $pid
+done
